@@ -1,0 +1,11 @@
+{
+	"name": "ChatCindvas",
+	"version": "0.0.0",
+	"description": "Mi Chat.",
+	"dependencies": {
+		"express": "latest",
+		"jade": "latest",
+		"socket.io": "^2.0.4"
+	},
+	"author": "cindy vasquez"
+}
